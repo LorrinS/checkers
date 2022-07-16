@@ -1,0 +1,30 @@
+GENERAL:
+https://docs.oracle.com/javase/7/docs/api/javax/swing/JOptionPane.html
+https://www.javatpoint.com/java-joptionpane
+
+CUSTOM BUTTONS
+http://www.java2s.com/Tutorials/Java/Swing_How_to/JOptionPane/Create_Custom_Buttons_in_JOptionPane_showInputDialog.htm
+https://stackoverflow.com/questions/24091730/using-joptionpane-to-exit-the-program
+https://stackoverflow.com/questions/9704890/how-to-handle-option-types-in-joptionpane-showconfirmdialog
+https://stackoverflow.com/questions/35468880/joptionpane-showmessagedialog-exit-button
+https://stackoverflow.com/questions/14407804/how-to-change-the-default-text-of-buttons-in-joptionpane-showinputdialog
+https://stackoverflow.com/questions/24970176/joptionpane-handling-ok-cancel-and-x-button
+https://stackoverflow.com/questions/1951558/list-of-java-swing-ui-properties
+
+JPANEL ORGANIZATION/CONTENT
+layout: 
+https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html
+https://www.javatpoint.com/FlowLayout
+content:
+https://www.javatpoint.com/java-jlabel
+https://www.javatpoint.com/java-jpanel
+https://www.javatpoint.com/java-jtextpane
+https://stackoverflow.com/questions/19936025/java-jpanel-how-to-fixed-sizes
+https://stackoverflow.com/questions/3974242/adding-text-to-a-jtextpane-without-having-it-editable-by-the-user
+https://stackoverflow.com/questions/13963392/add-image-to-joptionpane
+https://coderanch.com/t/340488/java/Adding-removing-components-JPanel
+https://stackoverflow.com/questions/17456401/how-to-update-a-jlabel-text/17456465
+
+
+
+
